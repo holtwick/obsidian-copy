@@ -1,6 +1,6 @@
 {
   "name": "obsidian-copy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Copy Obsidian documents including referenced assets ",
   "main": "index.js",
   "repository": {
