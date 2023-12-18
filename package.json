@@ -1,0 +1,22 @@
+{
+  "name": "obsidian-copy",
+  "version": "0.1.0",
+  "description": "Copy Obsidian documents including referenced assets ",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "obsidian",
+    "markdown",
+    "md",
+    "assets",
+    "tool",
+    "javascript",
+    "typescript",
+    "cli",
+    "terminal"
+  ],
+  "author": "Dirk Holtwick",
+  "license": "MIT"
+}
