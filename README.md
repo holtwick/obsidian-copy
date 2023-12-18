@@ -1,8 +1,8 @@
 # obsidian-copy
 
-Copy [Obsidian](https://obsidian.md) documents including referenced assets
+**Copy [Obsidian](https://obsidian.md) documents including referenced assets.**
 
-> [!NOTE] Motivation
+> [!NOTE]
 > [Obsidian](https://obsidian.md) is a great tool to produce and manage texts. 
 > And Markdown is the go to format for documentation and blog posts. 
 > This tool helps doing the text work in Obsidian and copy the results to wherever they are needed. This specialized tool helps to gather all asset files and to some cleanup.
