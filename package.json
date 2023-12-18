@@ -1,0 +1,40 @@
+{
+  "name": "obsidian-copy",
+  "version": "0.1.1",
+  "description": "Copy Obsidian documents including referenced assets ",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/holtwick/obsidian-copy.git"
+  },
+  "funding": {
+    "type": "GitHub Sponsors ❤",
+    "url": "https://github.com/sponsors/holtwick"
+  },
+  "author": {
+    "name": "Dirk Holtwick",
+    "email": "dirk.holtwick@gmail.com",
+    "url": "https://holtwick.de"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [
+    "obsidian",
+    "markdown",
+    "md",
+    "assets",
+    "tool",
+    "javascript",
+    "typescript",
+    "cli",
+    "terminal"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "cheap-watch": "^1.0.4",
+    "fast-glob": "^3.3.2",
+    "zeed": "^0.15.26"
+  }
+}
